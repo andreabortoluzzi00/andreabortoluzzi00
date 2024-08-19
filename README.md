@@ -8,7 +8,7 @@ I am a data scientist with a strong passion for Machine Learning and Deep Learni
 --------------
 ✉️  You can contact me at [bortoluzzi.a00@gmail.com](mailto:bortoluzzi.a00@gmail.com)
 --------------
-🧠  I'm learning Reinforcement Learning
+🧠  I'm currently learning Markov Decision Process (MDP) for Reinforcement Learning
 --------------
 🤝  I'm open to collaborating on interesting projects
 --------------
